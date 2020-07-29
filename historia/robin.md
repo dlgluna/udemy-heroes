@@ -1,0 +1,5 @@
+# Robin
+
+Robin es un personaje ficticio de la editorial DC Comics, joven héroe compañero de Batman. Desde 1940 varios personajes han ocupado el rol de Robin, el original y más conocido ha sido el de Dick Grayson. Todas las versiones de Robin han sido las de un chico joven con traje colorido, bastante positivo y alegre, lo cual contrasta con la apariencia oscura y personalidad seria de Batman. El personaje se ha hecho mundialmente famoso, con una edad de 15 años, teniendo su propio cómic (publicado en 1993).
+
+Hasta la fecha ha habido 6 personajes que, oficialmente han tomado el rol de Robin, la mayoría de ellos, dejan esta identidad para volverse héroes independientes, como es el caso de Dick Grayson que se volvió Nightwing, Jason Todd que se volvió Red Hood o Tim Drake se volvió Red Robin. Al igual que otros personajes de Batman, han sido modificados a lo largo del tiempo, y ajustados acorde a la época.
